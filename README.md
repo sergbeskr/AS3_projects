@@ -1,2 +1,2 @@
 # AS3_projects
-flash, actionScript 3
+flash actionScript 3
